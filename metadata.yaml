@@ -1,0 +1,39 @@
+_repo: Virginia-b-Vapaista-metsista-tarina_70256
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Inha, I. K. (Into Konrad)
+    - Nyström, Into Konrad
+    - Nystrom, Into Konrad
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+    wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
+creator:
+  author:
+    agent_name: White, Stewart Edward
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: https://en.wikipedia.org/wiki/Stewart_Edward_White
+description: ''
+gutenberg_issued: '2023-03-10'
+identifiers:
+  gutenberg: '70256'
+language: fi
+pgterms:marc905: 20230105100032white
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bWSOY, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Virginia : $b Vapaista metsistä tarina'
+url: http://www.gutenberg.org/ebooks/70256
